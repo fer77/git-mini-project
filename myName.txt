@@ -1,1 +1,2 @@
-Hello my name is Fernando
+Hello my name is Fernando.
+I tried to do the second mini project again.
