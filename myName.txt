@@ -4,4 +4,4 @@ I tried to do the second mini project again.
 got it.
 
 want to see if "push" works or not.
-
+ **Don't forget to add a readme file in the future.**
